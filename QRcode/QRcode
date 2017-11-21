@@ -1,0 +1,7 @@
+usamos o website para gerar o QRcode:   http://goqr.me/
+
+
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=WIFI%3AT%3AWPA%3BS%3AMotoG3 9047%3BP%3A7384a622250c%3BH%3Atrue%3B&qzone=1&margin=0&size=400x400&ecc=L
+
+
+
